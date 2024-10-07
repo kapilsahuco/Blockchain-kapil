@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9f7a2a5c-52ee-484c-9edf-fa917748d249)
 
 
 # Decentralized E-Commerce Platform
