@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `DecentralizedECommerce` smart contract:
 
----
 
 # Decentralized E-Commerce Platform
 
