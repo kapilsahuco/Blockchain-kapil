@@ -45,4 +45,4 @@ The Decentralized E-Commerce project aims to create a trustless, peer-to-peer ma
 
 ---
 
-Feel free to modify and update the README as your project evolves!
+
